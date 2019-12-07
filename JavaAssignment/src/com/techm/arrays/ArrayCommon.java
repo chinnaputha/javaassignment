@@ -29,6 +29,7 @@ public class ArrayCommon {
 		arrayCommon(countries);
 		System.out.println("my changes");
 		System.out.println("hello new changes");
+		System.out.println("Hi i am changing the data");
 	}
 
 }
