@@ -27,7 +27,8 @@ public class ArrayCommon {
 		String[] countries = new String[] { "India", "China", "US", "RSA",
 				"Japan", "Pak", "NZ", "RSA", "Austrilia", "NZ" };
 		arrayCommon(countries);
-		System.out.println("Hello testing");
+		System.out.println("my changes");
+		System.out.println("hello new changes");
 	}
 
 }
